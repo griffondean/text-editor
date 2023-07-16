@@ -1,4 +1,5 @@
 #text-editor
+
 ![badge](https://img.shields.io/badge/MIT-License-blue.svg)
 
 <br />
